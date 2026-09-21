@@ -1,0 +1,11 @@
+{
+  "name": "custom-tall-entities",
+  "version": "0.2.0",
+  "title": "Tall entity opacity tweak",
+  "description": "Makes tall entities less visible.\nStartup settings control the exact tint and opacity of tall entities when they are hidden, and which entities count as tall.\nAlways shows the \"Toggle visibility of tall entities\" shortcut button, even without Elevated Rails.",
+  "author": "xCape",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1.0"
+  ]
+}

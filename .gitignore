@@ -1,0 +1,12 @@
+# Build artifacts
+*.zip
+
+# Build scripts
+build.py
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store

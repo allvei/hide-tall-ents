@@ -1,10 +1,10 @@
-# Tall entity opacity tweak
+# Tall entity alpha tweaks
 
 Factorio mod that makes tall entities less visible when "Hide tall entities" mode is active.
 
-- Configurable tint and opacity for hidden tall entities, down to fully invisible.
-- Always shows the "Toggle visibility of tall entities" shortcut, even without Elevated Rails.
-- Per-entity overrides to mark or unmark entities as tall.
+- Configure tint and alpha.
+- Adds "Hide tall entities" button regardless of elevated rails being present
+- Mark or unmark entities as tall as you wish.
 
 ## Settings
 
